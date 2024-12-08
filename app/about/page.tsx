@@ -36,7 +36,7 @@ const About = () => {
         <img src="/images/About second.png" alt="Service" className="w-full md:w-2/5" />
         <div className="border-2 bg-slate-200 w-full md:w-3/5 p-8 md:p-20">
           <h1 className="text-xl md:text-2xl text-custom-purple">
-            Our service isn't just personal, it's actually hyper-personally exquisite
+            Our service isnt just personal, its actually hyper-personally exquisite
           </h1>
           <p className="text-custom-purple mt-6">
             When we started Avion, the idea was simple. Make high-quality furniture affordable and available for the mass market. Handmade, and lovingly crafted furniture and homeware is what we live, breathe, and design so our Chelsea boutique became the hotbed for the London interior design community.
